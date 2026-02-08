@@ -72,7 +72,7 @@ El modelado se realizó en Python utilizando principalmente `pandas` y `numpy`. 
 
 ---
 
-## 📑 Diccionario de variables (resumen)
+## Diccionario de variables (resumen)
 
 ### A. Variables originales (base Ask a Manager)
 
