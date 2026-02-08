@@ -228,6 +228,3 @@ total_compensacion_cop
 5. Actualizar la fuente de datos en Looker Studio.
 6. Verificar que el dashboard se actualice correctamente.
 
----
-
-## 📁 Estructura del repositorio (ejemplo)
